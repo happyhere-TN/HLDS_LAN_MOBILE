@@ -36,7 +36,7 @@ runing and play lan servers hlds with other mods (tfc/cstrike/hl)+bots  on andro
 
  -if u use exagear then u need to pop-up view the apk (this option supported on samsung mobiles)
  
- -if u use mobox u dont need any thing just leve the server
+ -if u use mobox u dont need any thing just open server and leve it
  
 5- to play on gamemod after server runing join to server with this ways:
  cs1.6 - use join with cs16amx apk
