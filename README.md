@@ -1,7 +1,7 @@
 # HLDS_LAN_MOBILE
 runing and play lan servers hlds with other mods (tfc/cstrike/hl)+bots  on android
 
- **//hlds_lan_mobiles have**
+ # hlds_lan_mobiles have:
 
  -bots for 3 game mods (tfc/hl/cs)
  
@@ -9,7 +9,7 @@ runing and play lan servers hlds with other mods (tfc/cstrike/hl)+bots  on andro
  
  -all mods have addons files and u can add plaugins and mods ad other..
 
- **//u need win emulator**
+ # u need win emulator:
  
  -to run hlds u need windows emulater for android use one of these:
 
@@ -19,7 +19,7 @@ runing and play lan servers hlds with other mods (tfc/cstrike/hl)+bots  on andro
 
 **3-** [EXAGEAR](https://github.com/XHYN-PH/exagear-302) batter for samsung to pop-up view option
 
-**//HO TO OPEN SERVER:**
+# HOW TO OPEN SERVER:
 
 **1-** Download hlds_lan from [here](https://github.com/Velaron/tf15-client) and extract it on download folder on mobile and install all the apks u find
 
@@ -46,6 +46,6 @@ runing and play lan servers hlds with other mods (tfc/cstrike/hl)+bots  on andro
 
  -tfc - use tfc apk
 
-**//HO TO connect and play:**
+# HOW TO connect and play:
  
- tipe on console:   connect localhost:27015 48
+ **tipe on console:   connect localhost:27015 48**
