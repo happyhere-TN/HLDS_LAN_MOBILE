@@ -11,14 +11,6 @@ runing and play lan servers hlds with other mods (tfc/cstrike/hl)+bots  on andro
 
 **3-** [EXAGEAR](https://github.com/XHYN-PH/exagear-302) batter for samsung to pop-up view option
 
-**//other things u need:**
-
-**1-** [xash3d apk](https://github.com/FWGS/xash3d-fwgs) download latest version
-
-**2-** cs16amx apk this apk to get admin on cstrike game when u join to server [download](https://github.com/FWGS/xash3d-fwgs)
-
-**3-** if u TFC player download apk from [here](https://github.com/Velaron/tf15-client)
-
 **//HO TO OPEN SERVER:**
 
 **1-** Download hlds_lan from [here](https://github.com/Velaron/tf15-client) and extract it on download folder on mobile and install the apks u find
