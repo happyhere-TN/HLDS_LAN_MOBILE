@@ -48,6 +48,12 @@ runing and play lan servers hlds with other mods (tfc/cstrike/hl)+bots  on andro
 
 # HOW TO connect and play:
  
- **tipe on console:   connect localhost:27015 48**
+ **with tfc apk tipe on console:   connect localhost:27015 48**
 
+ **with cs16amx apk tipe on console:   automatic conecting when u join to apk**
+
+**with xash3d apk (hl) tipe on console: 
+                                       new engine connect localhost:27015 48
+                                       old engine connect localhost:27015**
+                            
  thats is and havefane :)
