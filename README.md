@@ -52,9 +52,9 @@ runing and play lan servers hlds with other mods (tfc/cstrike/hl)+bots  on andro
  
  connect localhost:27015 48
 
- **with cs16amx apk tipe on console:**   
+ **with cs16amx:**   
 
- automatic conecting when u join to apk
+ dont tipe any thing automatic conecting when u join to apk
 
 **with xash3d apk (hl) tipe on console:** 
                                       
