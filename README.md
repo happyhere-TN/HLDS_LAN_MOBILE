@@ -9,7 +9,7 @@ runing and play lan servers hlds with other mods (tfc/cstrike/hl)+bots  on andro
 
 2- [WINLATOR](https://github.com/brunodev85/winlator) use winlator v10
 
-3- [EXAGER](https://github.com/XHYN-PH/exagear-302) batter for samsung to pop-up view option
+3- [EXAGEAR](https://github.com/XHYN-PH/exagear-302) batter for samsung to pop-up view option
 
 **//other things u need:**
 
