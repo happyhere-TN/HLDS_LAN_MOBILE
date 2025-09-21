@@ -3,15 +3,15 @@ runing and play lan servers hlds with other mods (tfc/cstrike/hl)+bots  on andro
 
  # hlds_lan_mobiles have:
 
- -bots for 3 game mods (tfc/hl/cs)
+ -Bots for 3 game mods (tfc/hl/cs)
  
- -auto admin access when u join to cstrike server with cs16amx apk
+ -Auto admin access when u join to cstrike server with cs16amx apk
  
- -all mods have addons files and u can add plaugins and mods ad other..
+ -All mods have addons files and u can add plaugins and mods and other..
 
  # u need win emulator:
  
- -to run hlds u need windows emulater for android use one of these:
+ -To run hlds u need windows emulater for android use one of these:
 
 **1-** [MOBOX](https://github.com/olegos2/mobox) using termux and select box86 when installing mobox
 
@@ -49,3 +49,5 @@ runing and play lan servers hlds with other mods (tfc/cstrike/hl)+bots  on andro
 # HOW TO connect and play:
  
  **tipe on console:   connect localhost:27015 48**
+
+ thats is and havefane :)
