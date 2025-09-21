@@ -2,6 +2,7 @@
 runing and play lan servers hlds with other mods (tfc/cstrike/hl)+bots  on android
 
  **//u need win emulator**
+ 
  -to run hlds u need windows emulater for android use one of these:
 
 1- [MOBOX](https://github.com/olegos2/mobox) using termux and select box86 when installing mobox
