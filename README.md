@@ -11,6 +11,9 @@ runing and play lan servers hlds with other mods (tfc/cstrike/hl)+bots  on andro
  
  -All mods have addons files and u can add plaugins and mods and other..
 
+-- **_TF15CLIENT WITH BOTS_**
+![Image]()
+
  # u need win emulator:
  
  -To run hlds u need windows emulater for android use one of these:
