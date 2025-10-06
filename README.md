@@ -31,8 +31,11 @@ runing and play lan servers hlds with other mods (tfc/cstrike/hl)+bots  on andro
 **2-** after installing one of this emulators (mobox-winlator-exagear) open it and go to (D:/hlds-wine)
 
 **3-** and now select server u wont from this files to open:
+  
   -1-[cs1.6]+bots_protocol_48.bat
+ 
   -2-[HL]-protocol_48.bat
+  
   -3-[TFC]+bots-protocol_49.bat
 
 **4-** this part is ⚠️ importan: after selecting the server and server runing u need to make the server runing on pop-up view on emulator (exagear or winlator)
